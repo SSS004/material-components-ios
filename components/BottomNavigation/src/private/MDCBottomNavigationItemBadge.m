@@ -19,7 +19,7 @@
 #import "MaterialPalettes.h"
 
 // This is very close to the material.io guidelines article considering the fonts differ.
-static const CGFloat kBadgeFontSize = 8;
+static const CGFloat kBadgeFontSize = 12;
 // These padding values get pretty close to the material.io guidelines article.
 static const CGFloat kBadgeYPadding = 2;
 // For an empty badge, ensure that the size is close to the guidelines article.
